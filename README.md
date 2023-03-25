@@ -1,2 +1,2 @@
-# Kasper_html_css
-Kasper template using HTML and Css only
+# Kasper_HTML_Css_Template
+Designed using only HTML and Css
